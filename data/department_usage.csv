@@ -1,0 +1,6 @@
+department,current_tokens,token_limit,days_elapsed,days_in_month,monthly_budget_eur
+HR,3000,10000,20,30,15
+IT,9000,10000,20,30,20
+Engineering,6200,10000,20,30,20
+Marketing,1800,10000,20,30,15
+Finance,900,10000,20,30,15
